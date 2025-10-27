@@ -18,7 +18,7 @@ format:
     transition: fade
     background-transition: fade
     highlight-style: arrow-dark
-    # logo: images/qr-code.png
+    logo: images/qr-code.png
     pointer:
       pointerSize: 24
       color: '#32cd32'
